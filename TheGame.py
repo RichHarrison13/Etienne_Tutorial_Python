@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-# 
-""""
-Created on Wed Feb 12 15:30:16 2020
+"""
+This is learning how to make a Python Script
 
-@author gv908497
-""""
+Feb 12th 2020
+Gv908497.
+"""
+
 
 def main():
     print("Hey World")
