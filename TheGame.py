@@ -9,8 +9,18 @@ Gv908497.
 
 
 def main():
-    print("Hey World")
-    return 0
+    print("Hey Fella")
+   
 
-if __name__ == "main__":
+    question1 = input("A spider has had a leg amputated, how many legs does it have? ")
+    if question1 == "7":
+        print("That is correct")
+    else:
+        print("This is not correct")
+
+    return 0
+ 
+    
+if __name__ == "__main__":
     main()
+    
